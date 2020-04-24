@@ -1,1 +1,1 @@
-# To view Plotly plots you need to paste the github repository on this website: https://nbviewer.jupyter.org/
+To view the Plotly plot you need acess this website: https://plotly.com/~Empanator/11.embed
