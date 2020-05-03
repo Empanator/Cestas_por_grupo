@@ -1,1 +1,1 @@
-# Para visualizar o plotly plot das cestas, é preciso acessar o seguinte site: https://plotly.com/~Empanator/11.embed
+# Para visualizar o plot. Acess esse site: https://plotly.com/~Empanator/11.embed
